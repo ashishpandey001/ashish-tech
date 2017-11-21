@@ -13,3 +13,6 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+# Ignore public/assets for heroku auto assets precompilation
+/public/assets/*
